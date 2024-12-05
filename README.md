@@ -11,10 +11,10 @@ Collaborators:
 2. Mining disasters-fatilities.csv
 3. Mining fatilities bots.ipynb
 4. Tesseract Download.html
-5. geospatial_analysis.ipynb
+5. geospatial_analysis.ipynb : Reads the accident dataset from MSHA and generates a choropleth map of accident count throughout the United States along with multiple graphs to show the relationship between accident frequency, production, operator experience, etc. 
 6. state_and_city_fatalities_map_with_spaced_legend.html
 7. updated_test_data_with_coordinates.csv
-8. us_accident_density_map.html
+8. us_accident_density_map.html : Accident map generated from geospatial_analysis.ipynb saved as html. 
 9. webscraping_analysis.ipynb
 
 # Link to Medium Article
