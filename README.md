@@ -3,6 +3,7 @@ CME583 Final Group Project - Group MinCoin
 
 MinCoin Project Description:
 This project will conduct an exploratory data analysis (EDA) of U.S. mining injury datasets, focusing on the relationships between policy changes, and injury trends. Key regulatory milestones, such as the Federal Mine Safety and Health Act, and advancements in mining technology will be analyzed to assess their impact on injury rates. These findings aim to identify gaps in current practices and guide future technological and regulatory improvements to reduce injuries in the mining sector.
+
 Collaborators:
 
 # Overview of Files
@@ -18,5 +19,10 @@ Collaborators:
 9. webscraping_analysis.ipynb
 
 # Link to Medium Article
-Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s-mining-safety-data-ffa8df361138 
+Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s-mining-safety-data-ffa8df361138
+
+# Project Workflow
+
+
+
    
