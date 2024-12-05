@@ -24,7 +24,8 @@ Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s
 # Workflow for MSHA Data Analysis
 ![image](https://github.com/user-attachments/assets/8a955653-b3a1-43cc-bab2-2359d47246ec)
 
-
+# Workflow for GeoSpatial Data Analysis
+![image](https://github.com/user-attachments/assets/b1a921c2-5a7e-40ee-89c1-e930c4a65152)
 
 
 
