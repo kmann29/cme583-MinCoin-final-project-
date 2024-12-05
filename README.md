@@ -12,8 +12,8 @@ Collaborators:
 3. Mining fatilities bots.ipynb: Mine Fatalities data is downloaded from NIOSH, and using mine name, city, and state, coordinate is extracted from wikipedia. For the one that did not have coordinates, openstreemap API is used to extract coordinates using city and state. Various graphs are demonstrated to conduct geospacial analysis and show correlation of safety regulations and improvememnt of mining technology. 
 4. Tesseract Download.html
 5. geospatial_analysis.ipynb : Reads the accident dataset from MSHA and generates a choropleth map of accident count throughout the United States along with multiple graphs to show the relationship between accident frequency, production, operator experience, etc. 
-6. state_and_city_fatalities_map_with_spaced_legend.html
-7. updated_test_data_with_coordinates.csv
+6. state_and_city_fatalities_map_with_spaced_legend.html: Fatality map generated from Mining fatilities bots.ipynb.
+7. updated_test_data_with_coordinates.csv: dataframe that includes coordinates that are web scraped. 
 8. us_accident_density_map.html : Accident map generated from geospatial_analysis.ipynb saved as html. 
 9. webscraping_analysis.ipynb
 
