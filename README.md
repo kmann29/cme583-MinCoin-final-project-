@@ -2,9 +2,8 @@
 CME583 Final Group Project - Group MinCoin
 
 MinCoin Project Description:
-This project will conduct an exploratory data analysis (EDA) of U.S. mining injury datasets, focusing on the relationships between policy changes, and injury trends. Key regulatory milestones, such as the Federal Mine Safety and Health Act, and advancements in mining technology will be analyzed to assess their impact on injury rates. These findings aim to identify gaps in current practices and guide future technological and regulatory improvements to reduce injuries in the mining sector.
+This project will conduct an exploratory data analysis (EDA) of U.S. mining injury datasets, from Mining Safety and Health Administration (MSHA) and National Institute for Occupational Safety and Health (NIOSH). Two different sources of of datasets were analyzed due to the NIOSH data consists of fatality data from 1839-2010 and MSHA consists of fatality and accident data from 2010-2024. Accessing and analyzing the multiple sources ensure that historic data can be compared to present day data. These datasets will be reviewed and analyzed to determine the impact of various factors such as policy changes and technology advancements. Key regulatory milestones, such as the Federal Mine Safety and Health Act, and advancements in mining technology will be analyzed to assess their impact on injury rates. These findings aim to identify gaps in current practices and guide future technological and regulatory improvements to reduce injuries in the mining sector. 
 
-Collaborators:
 
 # Overview of Files
 1. MinCoin MSHA Data Sorting(Non-Metal,Metal).ipynb : This code looks at all of the MSHA fatality reports from 2010 to 2024 and analyzes trends in fatalaties.  
@@ -30,10 +29,10 @@ Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s
 # Work Attribution
 | Team Member | Role | Contribution|
 |----------|----------|----------|
-Komal Mann | Data Retriever| Developed code to access MSHA data using Selenium and PyTesseract integration, Found correlations within the data for metal and Non-Metal Mining |
-Jessie Jung|Communications Specialist|Created a geospatial map of the data, found correlations within the data, cross referenced compiled data with existing data.Conducted machine learning algorithms |
+Komal Mann | Data Retriever| Developed code to access MSHA data using Selenium and PyTesseract integration, found correlations within the data for metal and Non-Metal Mining. Reviewed U.S. mining legislative actions and the impact of those actions on mining fatalities over time. |
+Jessie Jung|Communications Specialist|Created a geospatial map of the data, found correlations within the data, cross referenced compiled data with existing data.|
 Hyeun Jun Chang| Quality Assurance Reviewer| Did the NIOSH data processing, cleaned datasets, and analyzed trends in advancements in blasting and mining technology. Investigated correlations between technological advancements and mining fatalities. 
-Aarnav Deenapanray|Team Leader| Developed code to access MSHA data using Selenium and PyTesseract integration, Found correlations within the data for Coal Mining |
+Aarnav Deenapanray|Team Leader| Developed code to access MSHA data using Selenium and PyTesseract integration, Found correlations within the data for Coal Mining. |
 
 
 
