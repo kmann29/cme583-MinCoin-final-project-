@@ -27,6 +27,17 @@ Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s
 # Workflow for GeoSpatial Data Analysis
 ![image](https://github.com/user-attachments/assets/b1a921c2-5a7e-40ee-89c1-e930c4a65152)
 
+# Work Attribution
+| Team Member | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data A   | Data B   |
+| Row 2    | Data C   | Data D   |
+| Row 3    | Data E   | Data F   |
+Komal Mann: 
+Jessie Jung
+Hyeun Jun Chang
+Aarnav Deenapanray
+
 
 
    
