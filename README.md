@@ -28,12 +28,12 @@ Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s
 ![image](https://github.com/user-attachments/assets/b1a921c2-5a7e-40ee-89c1-e930c4a65152)
 
 # Work Attribution
-| Team Member | Column 2 | Column 3 |
+| Team Member | Role | Contribution|
 |----------|----------|----------|
-Komal Mann | test 
-Jessie Jung|test
-Hyeun Jun Chang|
-Aarnav Deenapanray|
+Komal Mann | Data Retriever|test
+Jessie Jung|Communications Specialist|test
+Hyeun Jun Chang| Quality Assurance Reviewer|
+Aarnav Deenapanray|Team Leader|
 
 
 
