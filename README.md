@@ -21,7 +21,10 @@ Collaborators:
 # Link to Medium Article
 Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s-mining-safety-data-ffa8df361138
 
-# Project Workflow
+# Workflow for MSHA Data Analysis
+![image](https://github.com/user-attachments/assets/8a955653-b3a1-43cc-bab2-2359d47246ec)
+
+
 
 
 
