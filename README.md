@@ -30,10 +30,10 @@ Exploring U.S Mining Safety Data: https://medium.com/@komalmann98/exploring-u-s
 # Work Attribution
 | Team Member | Role | Contribution|
 |----------|----------|----------|
-Komal Mann | Data Retriever|test
-Jessie Jung|Communications Specialist|test
-Hyeun Jun Chang| Quality Assurance Reviewer|
-Aarnav Deenapanray|Team Leader|
+Komal Mann | Data Retriever| Developed code to access MSHA data using Selenium and PyTesseract integration, Found correlations within the data for metal and Non-Metal Mining |
+Jessie Jung|Communications Specialist|Created a geospatial map of the data, found correlations within the data, cross referenced compiled data with existing data.Conducted machine learning algorithms |
+Hyeun Jun Chang| Quality Assurance Reviewer| Did the NIOSH data processing, cleaned datasets, and analyzed trends in advancements in blasting and mining technology. Investigated correlations between technological advancements and mining fatalities. 
+Aarnav Deenapanray|Team Leader| Developed code to access MSHA data using Selenium and PyTesseract integration, Found correlations within the data for Coal Mining |
 
 
 
